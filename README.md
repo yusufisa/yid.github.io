@@ -1,0 +1,2 @@
+# yid.github.io
+kişisel
