@@ -1,0 +1,175 @@
+body
+{
+	background-image:url(../img/ap5.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
+}
+
+#ust
+{ 
+	background: white;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 900px;
+	height: 100px;
+	position: relative;
+	margin: auto;	
+	
+}
+
+#logo
+{
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100px;
+	height: 100px;	
+}
+
+#orta
+{
+	background: white;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 900px;
+	height: 1500px;
+	position: relative;
+	margin: auto;	
+	margin-top: 50px;
+}
+
+#alt
+{
+	background: white;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 900px;
+	height: 70px;
+	position: relative;
+	margin: auto;	
+	margin-top: 50px;	
+	color: black;
+}
+
+
+#alt u
+{
+	position: absolute;
+	left: 300px;
+	top: 25px;
+}
+
+#menu
+{
+	margin: 0px;
+
+
+    padding: 0px;
+
+
+    list-style-type: none;
+
+    position: absolute;
+
+    margin-top: -70px;
+    margin-left: 100px;
+}
+
+#menu li {
+
+
+    float: left;
+
+
+    width: 150px;
+
+
+    position: relative;
+
+
+	list-style-type: none;
+
+}
+
+
+#menu a {
+
+
+    font-family: "Times New Roman", Times, serif;
+
+
+    font-size: 16px;
+
+
+    color: #000;
+
+
+    text-decoration: none;
+
+
+    background-color: #fff;
+
+
+    display: block;
+
+
+    padding-top: 5px;
+
+
+    padding-right: 5px;
+
+
+    border: 1px solid orange;
+
+
+    text-align: center;
+
+
+    line-height: 30px;
+
+
+    margin-right: 2px;
+
+
+}
+
+
+#menu a:hover {
+
+
+    background-color: white;
+
+
+}
+
+.a
+{
+	position: absolute;
+	margin-left: 20px;
+}
+
+.b
+{
+	position: absolute;
+	margin-left: 150px;
+}
+
+.r
+{
+ color:black;	
+}
+
+#btn
+{
+	position: absolute;
+	margin-left: 10px;
+}
+
